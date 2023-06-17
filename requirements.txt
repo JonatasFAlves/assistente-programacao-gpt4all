@@ -1,3 +1,7 @@
 gpt4all==0.2.3
 langchain==0.0.200
 llama-cpp-python==0.1.63
+sentence_transformers==2.2.2
+chromadb==0.3.26
+pinecone-client==2.2.2
+pinecone-text==0.4.2 
